@@ -44,7 +44,9 @@ $ mongo
 
 
 三、Linux（Ubuntu）下安装MEAN.IO
+
 必须切换成非root用户 sudo vagrant
+
 $ sudo npm install -g mean-cli 
 
 $ mean init yourNewApp
