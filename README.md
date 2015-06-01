@@ -12,9 +12,9 @@ $ sudo apt-get install g++
 $ sudo apt-get install libssl-dev
 
 
-接下来，就可以下载安装nodeJS了，目前稳定版本为 Node.js 0.6.18，下面是安装步骤：
+接下来，就可以下载安装nodeJS了，下面是安装步骤：
 
-$ wget http://nodejs.org/dist/v0.8.16/node-v0.8.16.tar.gz
+$ wget http://nodejs.org/dist/latest/node-v0.12.4.tar.gz
 
 $ tar zxvf node-v0.8.16.tar.gz
 
