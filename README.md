@@ -31,6 +31,8 @@ $ node -v
 
 二、Linux（Ubuntu）下安装Mongodb
 
+http://docs.mongodb.org/manual/tutorial/install-mongodb-on-ubuntu/
+
 $ sudo apt-get install httpd php php-pear php-devel gcc
 
 $ apt-get install mongo
