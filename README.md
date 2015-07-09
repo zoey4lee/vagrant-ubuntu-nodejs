@@ -3,7 +3,7 @@
 切换到root用户
 
 $ sudo su
-
+$ sudo apt-get update
 $ sudo apt-get upgrade
 
 一、Linux（Ubuntu）下安装NodeJs
