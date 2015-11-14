@@ -55,3 +55,7 @@ $ mean init yourNewApp
 
 
 mean.io详情https://github.com/linnovate/mean
+
+
+ssh-keygen
+cat .ssh/id_rsa.pub
